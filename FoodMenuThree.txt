@@ -1,0 +1,6 @@
+Item;Menus;price;time
+P2;Frutti de Mare;13.99;27;
+P3;Quattro Formaggi;13.99;25;
+P4;Calzone;11.50;15;
+P5;Venezia;12.95;10;
+P6;Romana;12.95;05;

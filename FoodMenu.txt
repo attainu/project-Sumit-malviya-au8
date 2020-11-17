@@ -1,0 +1,6 @@
+Item;Menus;price;time
+S1;Bruschetta con Funghi;4.50;10;
+S2;Tomato Mozzarella & Basil;4.85;23;
+S3;Risotto Primavera;6.10;45;
+S4;Mixed Olives;3.50;23;
+P1;Margerita;8.99;12;

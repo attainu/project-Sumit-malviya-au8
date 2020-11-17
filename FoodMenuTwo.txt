@@ -1,0 +1,7 @@
+Item;Menus;price;time
+D3;Panettone;4.60;36;
+D4;Panna Cotta;6.20;12;
+C1;Espresso;1.50;13;
+C2;Cappuccino;2.50;34;
+W1;Mineral Still Water;1.20;10;
+W2;Mineral Sparkling Water;1.20;07;
